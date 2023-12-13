@@ -18,7 +18,7 @@ $$
 Now consider a delta hedge portolio $X$, long a call and short $C_S$ shares of the underlying stock
 
 $$
-X = C = C_S S
+X = C - C_S S
 $$
 
 Then
